@@ -1,4 +1,4 @@
-# nexus 
+# Sonatype Nexus
 
 ## Sonatype nexus3 artifactory setup using docker-compose 
 
